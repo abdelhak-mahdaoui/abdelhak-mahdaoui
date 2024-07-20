@@ -35,7 +35,7 @@
     </a>
     <!-- Flask -->
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="flask.png" alt="Flask" width="40" height="40"/>
+        <img src="Flask.png" alt="Flask" width="40" height="40"/>
     </a>
     <!-- Django -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
