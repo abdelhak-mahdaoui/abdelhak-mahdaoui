@@ -71,7 +71,7 @@
     </a>
     <!-- Hive -->
     <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:Apache_Hive_logo.svg" alt="hive" width="40" height="40"/>
+        <img src="Apache_Hive.svg" alt="hive" width="40" height="40"/>
     </a>
     <!-- Pig -->
     <a href="https://pig.apache.org/" target="_blank" rel="noreferrer">
