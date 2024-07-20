@@ -13,10 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/mahdaouiabdelhak" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdaouiabdelhak" height="30" width="40" />
-    </a>
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -39,7 +35,7 @@
     </a>
     <!-- Flask -->
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
     </a>
     <!-- Django -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -59,39 +55,39 @@
     </a>
     <!-- Scikit-Learn -->
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
     </a>
     <!-- Spark -->
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/>
     </a>
     <!-- Kafka -->
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="kafka" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
     </a>
     <!-- Hadoop -->
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="hadoop" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
     </a>
     <!-- Hive -->
     <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="hive" width="40" height="40"/>
+        <img src="https://commons.wikimedia.org/wiki/File:Apache_Hive_logo.svg" alt="hive" width="40" height="40"/>
     </a>
     <!-- Pig -->
     <a href="https://pig.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="pig" width="40" height="40"/>
+        <img src="https://en.wikipedia.org/wiki/Apache_Pig#/media/File:Apache_Pig_Logo.svg" alt="pig" width="40" height="40"/>
     </a>
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+        <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
     </a>
     <!-- Talend Open Studio -->
     <a href="https://www.talend.com/products/talend-open-studio/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talend/talend-original.svg" alt="talend" width="40" height="40"/>
+        <img src="https://fr.wikipedia.org/wiki/Talend#/media/Fichier:TalendLogoCoral.png" alt="talend" width="40" height="40"/>
     </a>
     <!-- Airflow -->
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="airflow" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
     </a>
     <!-- Selenium -->
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
