@@ -75,7 +75,7 @@
     </a>
     <!-- Pig -->
     <a href="https://pig.apache.org/" target="_blank" rel="noreferrer">
-        <img src="Apache_Pig.png" alt="pig" height="40"/>
+        <img src="Apache_pig.png" alt="pig" height="40"/>
     </a>
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
