@@ -75,7 +75,7 @@
     </a>
     <!-- Pig -->
     <a href="https://pig.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://en.wikipedia.org/wiki/Apache_Pig#/media/File:Apache_Pig_Logo.svg" alt="pig" width="40" height="40"/>
+        <img src="Apache_Pig.png" alt="pig" width="40" height="40"/>
     </a>
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
@@ -83,7 +83,7 @@
     </a>
     <!-- Talend Open Studio -->
     <a href="https://www.talend.com/products/talend-open-studio/" target="_blank" rel="noreferrer">
-        <img src="https://fr.wikipedia.org/wiki/Talend#/media/Fichier:TalendLogoCoral.png" alt="talend" width="40" height="40"/>
+        <img src="Talend.png" alt="talend" width="40" height="40"/>
     </a>
     <!-- Airflow -->
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
