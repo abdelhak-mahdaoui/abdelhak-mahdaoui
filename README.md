@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelhak Mahdaoui</h1>
+<h1 align="center">Hi 👋, I'm Abdelhak</h1>
 <h3 align="center">Pythonista with a passion for building AI-powered applications</h3>
 
 - 📫 How to reach me **mahdaoui1abdelhak@gmail.com**
