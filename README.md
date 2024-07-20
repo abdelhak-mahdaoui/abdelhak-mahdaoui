@@ -83,7 +83,7 @@
     </a>
     <!-- Talend Open Studio -->
     <a href="https://www.talend.com/products/talend-open-studio/" target="_blank" rel="noreferrer">
-        <img src="Talend.svg" alt="talend" width="40" height="40"/>
+        <img src="Talend.svg" alt="talend" height="40"/>
     </a>
     <!-- Airflow -->
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
