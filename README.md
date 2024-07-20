@@ -18,8 +18,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
     <!-- SQL -->
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
     </a>
     <!-- PL/SQL -->
     <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
@@ -35,7 +35,7 @@
     </a>
     <!-- Flask -->
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="Flask.png" alt="Flask" width="40" height="40"/>
+        <img src="Flask.svg" alt="Flask" width="40" height="40"/>
     </a>
     <!-- Django -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
