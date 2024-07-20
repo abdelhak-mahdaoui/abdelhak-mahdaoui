@@ -79,7 +79,7 @@
     </a>
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
     </a>
     <!-- Talend Open Studio -->
     <a href="https://www.talend.com/products/talend-open-studio/" target="_blank" rel="noreferrer">
